@@ -1,0 +1,74 @@
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.exe
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.deps.json
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.runtimeconfig.json
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.dll
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.pdb
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_conversorDeBases.resources
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.GenerateResource.cache
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfoInputs.cache
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfo.cs
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.sourcelink.json
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.dll
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\refint\ConversorDeBases.dll
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.pdb
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.genruntimeconfig.cache
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ref\ConversorDeBases.dll
+D:\Arquivos\Documents\Escola\Git\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_calculadoraDeBases.resources
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.exe
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.deps.json
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.runtimeconfig.json
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_calculadoraDeBases.resources
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_conversorDeBases.resources
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.GenerateResource.cache
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfoInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfo.cs
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.CoreCompileInputs.cache
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.sourcelink.json
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\refint\ConversorDeBases.dll
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.genruntimeconfig.cache
+C:\Users\saryu\Downloads\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ref\ConversorDeBases.dll
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.exe
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.deps.json
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.runtimeconfig.json
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_calculadoraDeBases.resources
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_conversorDeBases.resources
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfo.cs
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.sourcelink.json
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\refint\ConversorDeBases.dll
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.genruntimeconfig.cache
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ref\ConversorDeBases.dll
+C:\Users\usuario\Downloads\md\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.Properties.Resources.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.exe
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.deps.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.runtimeconfig.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\bin\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_calculadoraDeBases.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.frm_conversorDeBases.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.Properties.Resources.resources
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.GenerateResource.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfoInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.AssemblyInfo.cs
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.csproj.CoreCompileInputs.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.sourcelink.json
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\refint\ConversorDeBases.dll
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.pdb
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ConversorDeBases.genruntimeconfig.cache
+C:\Users\cotemig\Downloads\MD\Trabalho MD\ConversorDeBases\ConversorDeBases\obj\Debug\net8.0-windows\ref\ConversorDeBases.dll
