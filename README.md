@@ -15,11 +15,9 @@ Este programa possui duas funcionalidades principais:
 
 ## ✅ Funcionalidades
 
-- Interface amigável para escolha de base e operação;
 - Validação das entradas de acordo com a base selecionada;
 - Resultados exibidos na mesma base da operação;
 - Resultado binário formatado em grupos de 4 bits;
-- Mensagens claras de erro e tratamento adequado de exceções.
 
 ## 🧮 Exemplo de operação
 
