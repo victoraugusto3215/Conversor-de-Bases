@@ -28,13 +28,13 @@ Saída:
 ```text
 Resultado: 0000 1001 1111
 
-##⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - C#
 
 - .NET Windows Forms
 
-##🎯 Objetivo
+## 🎯 Objetivo
 
 Aplicar os conceitos teóricos de sistemas de numeração e operações em diferentes bases numéricas de forma prática, desenvolvendo uma aplicação que automatize esses processos com uma interface acessível para o usuário.
 
