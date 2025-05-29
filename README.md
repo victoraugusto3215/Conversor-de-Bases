@@ -1,4 +1,4 @@
-# 🔢 Projeto – Conversor e Calculadora de Bases
+# 🔢 Conversor e Calculadora de Bases
 
 Projeto acadêmico em **C#** utilizando **Windows Forms**, desenvolvido na disciplina de **Matemática Discreta**, do **6º período** do curso de **Sistemas de Informação** da **Faculdade Cotemig**, sob orientação do professor **Vangelis**.
 
