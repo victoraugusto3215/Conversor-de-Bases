@@ -25,7 +25,6 @@ Operação: Multiplicação binária
 Entradas: `1011` (11 em decimal) e `0011` (3 em decimal)  
 Saída:
 
-```text
 Resultado: 0000 1001 1111
 
 ## ⚙️ Tecnologias Utilizadas
